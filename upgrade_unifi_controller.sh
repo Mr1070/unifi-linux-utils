@@ -23,9 +23,9 @@
 # then run the script!
 
 # CONFIGURATION OPTIONS
-UNIFI_DOWNLOAD_URL=http://dl.ubnt.com/unifi/5.0.7/UniFi.unix.zip
+UNIFI_DOWNLOAD_URL=https://dl.ubnt.com/unifi/5.7.20-4f3333649b/UniFi.unix.zip
 UNIFI_ARCHIVE_FILENAME=UniFi.unix.zip
-UNIFI_OWNER=ubnt
+UNIFI_OWNER=admin
 UNIFI_SERVICE=unifi
 UNIFI_PARENT_DIR=/opt
 UNIFI_DIR=/opt/UniFi
